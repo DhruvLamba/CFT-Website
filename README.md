@@ -1,2 +1,2 @@
-# CSA-QUIZ
-This is a registration and quiz protal made in html css javascript php and mysql database
+CFT Website
+This is a registration and quiz portal made in html css javascript php and mysql database
